@@ -1,0 +1,164 @@
+﻿-- MySQL dump 10.13  Distrib 8.0.19, for Linux (x86_64)
+--
+-- Host: localhost    Database: prob2
+-- ------------------------------------------------------
+-- Server version	8.0.19
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!50503 SET NAMES utf8 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Current Database: `prob2`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `prob2` /*!40100 DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
+
+USE `prob2`;
+
+--
+-- Table structure for table `T_EMPLOYER`
+--
+
+DROP TABLE IF EXISTS `T_EMPLOYER`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8 */;
+CREATE TABLE `T_EMPLOYER` (
+  `ID` int NOT NULL AUTO_INCREMENT,
+  `NAME` varchar(100) DEFAULT NULL,
+  PRIMARY KEY (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=100 DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `T_EMPLOYER`
+--
+
+LOCK TABLES `T_EMPLOYER` WRITE;
+/*!40000 ALTER TABLE `T_EMPLOYER` DISABLE KEYS */;
+/*!40000 ALTER TABLE `T_EMPLOYER` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `T_EMPLOYMENT`
+--
+
+DROP TABLE IF EXISTS `T_EMPLOYMENT`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8 */;
+CREATE TABLE `T_EMPLOYMENT` (
+  `ID` int NOT NULL AUTO_INCREMENT,
+  `TITLE` varchar(100) DEFAULT NULL,
+  `PERSON_ID` int DEFAULT NULL,
+  `EMPLOYER_ID` int DEFAULT NULL,
+  PRIMARY KEY (`ID`),
+  KEY `PERSON_ID` (`PERSON_ID`),
+  KEY `EMPLOYER_ID` (`EMPLOYER_ID`),
+  CONSTRAINT `T_EMPLOYMENT_ibfk_1` FOREIGN KEY (`PERSON_ID`) REFERENCES `T_PERSON` (`ID`),
+  CONSTRAINT `T_EMPLOYMENT_ibfk_2` FOREIGN KEY (`EMPLOYER_ID`) REFERENCES `T_EMPLOYER` (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=10000 DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `T_EMPLOYMENT`
+--
+
+LOCK TABLES `T_EMPLOYMENT` WRITE;
+/*!40000 ALTER TABLE `T_EMPLOYMENT` DISABLE KEYS */;
+/*!40000 ALTER TABLE `T_EMPLOYMENT` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `T_PENSION`
+--
+
+DROP TABLE IF EXISTS `T_PENSION`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8 */;
+CREATE TABLE `T_PENSION` (
+  `ID` int NOT NULL AUTO_INCREMENT,
+  `NAME` varchar(100) DEFAULT NULL,
+  PRIMARY KEY (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=1000 DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `T_PENSION`
+--
+
+LOCK TABLES `T_PENSION` WRITE;
+/*!40000 ALTER TABLE `T_PENSION` DISABLE KEYS */;
+/*!40000 ALTER TABLE `T_PENSION` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `T_PENSION_DETAIL`
+--
+
+DROP TABLE IF EXISTS `T_PENSION_DETAIL`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8 */;
+CREATE TABLE `T_PENSION_DETAIL` (
+  `ID` int NOT NULL AUTO_INCREMENT,
+  `EMPLOYMENT_ID` int DEFAULT NULL,
+  `PENSION_ID` int DEFAULT NULL,
+  `PENSION_VALUE` varchar(100) DEFAULT NULL,
+  `YEARS_OF_SERVICE` varchar(100) DEFAULT NULL,
+  `YEAR_OF_RETIREMENT` varchar(100) DEFAULT NULL,
+  PRIMARY KEY (`ID`),
+  KEY `EMPLOYMENT_ID` (`EMPLOYMENT_ID`),
+  KEY `PENSION_ID` (`PENSION_ID`),
+  CONSTRAINT `T_PENSION_DETAIL_ibfk_1` FOREIGN KEY (`EMPLOYMENT_ID`) REFERENCES `T_EMPLOYMENT` (`ID`),
+  CONSTRAINT `T_PENSION_DETAIL_ibfk_2` FOREIGN KEY (`PENSION_ID`) REFERENCES `T_PENSION` (`ID`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `T_PENSION_DETAIL`
+--
+
+LOCK TABLES `T_PENSION_DETAIL` WRITE;
+/*!40000 ALTER TABLE `T_PENSION_DETAIL` DISABLE KEYS */;
+/*!40000 ALTER TABLE `T_PENSION_DETAIL` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `T_PERSON`
+--
+
+DROP TABLE IF EXISTS `T_PERSON`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8 */;
+CREATE TABLE `T_PERSON` (
+  `ID` int NOT NULL AUTO_INCREMENT,
+  `NAME` varchar(100) DEFAULT NULL,
+  PRIMARY KEY (`ID`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `T_PERSON`
+--
+
+LOCK TABLES `T_PERSON` WRITE;
+/*!40000 ALTER TABLE `T_PERSON` DISABLE KEYS */;
+/*!40000 ALTER TABLE `T_PERSON` ENABLE KEYS */;
+UNLOCK TABLES;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed on 2020-02-26 23:49:55

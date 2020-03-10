@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta charset="utf-8">
+    <title>&#39;coach&#39; search results | Transparent California</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Search California public, government employee, workers salaries, pensions and compensation">
+    <meta name="keywords" content="California, public, public salaries, government, government salaries, employee, workers, salary, salaries, pension, pensions, compensation, benefits, salary database">
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.2/css/bootstrap-responsive.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="/static/css/style.e784bccf51f5.css"/>
+    <link type="text/css" rel="stylesheet" href="/static/css/slickModal.min.e21d383678e0.css">
+
+    <link rel="shortcut icon" href="/static/img/favicon.2956e0267e34.ico"/>
+    <link rel="apple-touch-icon" href="/static/img/apple-touch-icon.482cf8616235.png"/>
+
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NSHXXN6');</script>
+<!-- End Google Tag Manager -->
+
+
+    <script type="text/javascript">
+      function resizeIframe(obj) {
+          obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+      }
+    </script>
+
+    
+      <!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"0EfUj1acFH00M2", domain:"transparentcalifornia.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=0EfUj1acFH00M2" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+
+    
+
+    
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-6217681912471188",
+    enable_page_level_ads: true
+  });
+</script>
+
+    
+
+    
+  <link type="text/css" rel="stylesheet" href="/static/tablesaw/tablesaw.4824d43ece4b.css">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet">
+
+</head>
+
+<body>
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NSHXXN6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+	<div align="center" class="container"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- TransCal - Header -->
+<ins class="adsbygoogle"
+     style="display:block;width:100%;height:90px;"
+     data-full-width-responsive="true"
+     data-ad-client="ca-pub-6217681912471188"
+     data-ad-slot="3598185151"
+></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+	<div class="container">
+		<div class="row-fluid">
+			<div class="span12">
+				<div id="header-wrapper">
+					<a href="/"><img src="/static/img/banner2017.63d6922724e7.png" id="header"></a>
+					<div class="donatebar">
+                        
+                        <a href="/connect/" target="_blank">Stay updated by joining our mailing list!</a>
+                        
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="container-wrapper">
+			
+				<!-- NextMillennium Ads -->
+<script>
+var a= document.createElement('script');a.src = 'https://powerad.ai/script.js';a.setAttribute('async','');top.document.querySelector('head').appendChild(a);
+</script>
+<!-- End of NextMillennium Ads -->
+			
+			<div class="row-fluid">
+				
+  
+  
+  
+  
+
+
+  
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+				
+<ul class="breadcrumb">
+    
+        <li>
+            
+                <a href="/">Home</a>
+            
+            
+                <span class="divider">/</span>
+            
+        </li>
+    
+        <li>
+            
+                Pensions
+            
+            
+        </li>
+    
+</ul>
+
+
+
+
+<h1 class="text-center">
+  <span class="page_title">&lsquo;coach&rsquo; search results</span>
+  
+    <br/>
+    <small class="muted">
+      <span class="page_subtitle">
+	
+        1,312 records found
+        
+           &ndash; Page&nbsp;27&nbsp;of&nbsp;27
+        
+      </span>
+    </small>
+  
+</h1>
+
+
+
+
+
+
+
+<div class="text-center" id="filter-records">
+  <p>Search within these records:</p>
+  <form action="/pensions/search/" method="get" class="form-inline">
+    <fieldset>
+      
+      <input type="search" name="q" placeholder="Name or job title" class="input-medium" value="coach">
+      <select name="y" class="input-small">
+	<option value="">Year</option>
+	
+	  
+	    <option value="2018" >2018</option>
+	  
+	    <option value="2017" >2017</option>
+	  
+	    <option value="2016" >2016</option>
+	  
+	    <option value="2015" >2015</option>
+	  
+	    <option value="2014" >2014</option>
+	  
+	    <option value="2013" >2013</option>
+	  
+	    <option value="2012" >2012</option>
+	  
+	    <option value="2011" >2011</option>
+	  
+	    <option value="2010" >2010</option>
+	  
+	
+      </select>
+      <button type="submit" class="btn">Search</button>
+    </fieldset>
+  </form>
+</div>
+
+
+
+
+
+<table class="table table-hover table-bordered" id="main-listing" data-tablesaw-mode="columntoggle" data-tablesaw-minimap>
+  <thead>
+    <tr>
+      <th data-tablesaw-priority=persist><a href="?q=coach&amp;y=&amp;page=27&s=name">Name</a></th>
+      <th data-tablesaw-priority=2>Job Title/Employer/Pension</th>
+      <th data-tablesaw-priority=5><a id="pension" href="?q=coach&amp;y=&amp;page=27&s=-pension">Pension</a></th>
+      <th data-tablesaw-priority=5><a href="?q=coach&amp;y=&amp;page=27&s=-benefits">Benefits</a></th>
+      <th data-tablesaw-priority=6><a href="?q=coach&amp;y=&amp;page=27&s=-disability">Disability</a></th>
+      <th data-tablesaw-priority=4><a href="?q=coach&amp;y=&amp;page=27&s=-service_years">Years of <br/> Service</a></th>
+      <th data-tablesaw-priority=3><a href="?q=coach&amp;y=&amp;page=27&s=retirement_year">Year of <br/> Retirement</a></th>
+      <th data-tablesaw-priority=1><a id="total-amount" href="?q=coach&amp;y=&amp;page=27&s=-amount">Total pension &amp; <br> benefits amount</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    
+      <tr>
+        <td>
+	  <a href="/pensions/2016/calpers/john-k-tyree/">John K Tyree</a>
+	  
+	</td>
+        <td>
+          Title: <a href="/pensions/search/?q=COACH%20-%20ACADEMIC%20YEAR&a=calpers&y=2016">COACH - ACADEMIC YEAR</a><br/>
+          Employer: <a href="/pensions/2016/calpers/?e=CALIFORNIA%20STATE%20POLYTECHNIC%20UNIVERSITY%20AT%20POMONA">CALIFORNIA STATE POLYTECHNIC UNIVERSITY AT POMONA</a><br/>
+          Pension: <a href="/pensions/2016/calpers/">CalPERS, 2016</a>
+        </td>
+	<td>$1,651.80</td>
+	<td>Not&nbsp;provided</td>
+	
+	  <td>N/A</td>
+	
+	<td>0.8</td>
+	<td>2006</td>
+	<td>$1,651.80</td>
+      </tr>
+    
+      <tr>
+        <td>
+	  <a href="/pensions/2015/calpers/john-k-tyree/">John K Tyree</a>
+	  
+	</td>
+        <td>
+          Title: <a href="/pensions/search/?q=COACH%20-%20ACADEMIC%20YEAR&a=calpers&y=2015">COACH - ACADEMIC YEAR</a><br/>
+          Employer: <a href="/pensions/2015/calpers/?e=CALIFORNIA%20STATE%20POLYTECHNIC%20UNIVERSITY%20AT%20POMONA">CALIFORNIA STATE POLYTECHNIC UNIVERSITY AT POMONA</a><br/>
+          Pension: <a href="/pensions/2015/calpers/">CalPERS, 2015</a>
+        </td>
+	<td>$1,641.00</td>
+	<td>Not&nbsp;provided</td>
+	
+	  <td>N/A</td>
+	
+	<td>0.8</td>
+	<td>2006</td>
+	<td>$1,641.00</td>
+      </tr>
+    
+      <tr>
+        <td>
+	  <a href="/pensions/2014/calpers/john-k-tyree/">John K Tyree</a>
+	  
+	</td>
+        <td>
+          Title: <a href="/pensions/search/?q=COACH%20-%20ACADEMIC%20YEAR&a=calpers&y=2014">COACH - ACADEMIC YEAR</a><br/>
+          Employer: <a href="/pensions/2014/calpers/?e=CALIFORNIA%20STATE%20POLYTECHNIC%20UNIVERSITY%20AT%20POMONA">CALIFORNIA STATE POLYTECHNIC UNIVERSITY AT POMONA</a><br/>
+          Pension: <a href="/pensions/2014/calpers/">CalPERS, 2014</a>
+        </td>
+	<td>$1,619.40</td>
+	<td>Not&nbsp;provided</td>
+	
+	  <td>N/A</td>
+	
+	<td>0.8</td>
+	<td>2006</td>
+	<td>$1,619.40</td>
+      </tr>
+    
+      <tr>
+        <td>
+	  <a href="/pensions/2019/calpers/susan-e-walker/">Susan E Walker</a>
+	  
+	</td>
+        <td>
+          Title: <a href="/pensions/search/?q=COACH%20-%2012%20MONTH&a=calpers&y=2019">COACH - 12 MONTH</a><br/>
+          Employer: <a href="/pensions/2019/calpers/?e=CALIFORNIA%20STATE%20UNIVERSITY%20AT%20SAN%20JOSE">CALIFORNIA STATE UNIVERSITY AT SAN JOSE</a><br/>
+          Pension: <a href="/pensions/2019/calpers/">CalPERS, 2019</a>
+        </td>
+	<td>$1,602.72</td>
+	<td>Not&nbsp;provided</td>
+	
+	  <td>N/A</td>
+	
+	<td>0.6</td>
+	<td>2016</td>
+	<td>$1,602.72</td>
+      </tr>
+    
+      <tr>
+        <td>
+	  <a href="/pensions/2013/calpers/john-k-tyree/">JOHN K TYREE</a>
+	  
+	</td>
+        <td>
+          Title: <a href="/pensions/search/?q=COACH%20-%20ACADEMIC%20YEAR&a=calpers&y=2013">COACH - ACADEMIC YEAR</a><br/>
+          Employer: <a href="/pensions/2013/calpers/?e=CALIFORNIA%20STATE%20POLYTECHNIC%20UNIVERSITY%20AT%20POMONA">CALIFORNIA STATE POLYTECHNIC UNIVERSITY AT POMONA</a><br/>
+          Pension: <a href="/pensions/2013/calpers/">CalPERS, 2013</a>
+        </td>
+	<td>$1,587.72</td>
+	<td>Not&nbsp;provided</td>
+	
+	  <td>N/A</td>
+	
+	<td>Not provided</td>
+	<td>2006</td>
+	<td>$1,587.72</td>
+      </tr>
+    
+      <tr>
+        <td>
+	  <a href="/pensions/2018/calpers/susan-e-walker/">Susan E Walker</a>
+	  
+	</td>
+        <td>
+          Title: <a href="/pensions/search/?q=COACH%20-%2012%20MONTH&a=calpers&y=2018">COACH - 12 MONTH</a><br/>
+          Employer: <a href="/pensions/2018/calpers/?e=STATE%20OF%20CALIFORNIA">STATE OF CALIFORNIA</a><br/>
+          Pension: <a href="/pensions/2018/calpers/">CalPERS, 2018</a>
+        </td>
+	<td>$1,571.00</td>
+	<td>Not&nbsp;provided</td>
+	
+	  <td>N/A</td>
+	
+	<td>0.6</td>
+	<td>2016</td>
+	<td>$1,571.00</td>
+      </tr>
+    
+      <tr>
+        <td>
+	  <a href="/pensions/2012/calpers/john-k-tyree/">JOHN K TYREE</a>
+	  
+	</td>
+        <td>
+          Title: <a href="/pensions/search/?q=COACH%20-%20ACADEMIC%20YEAR&a=calpers&y=2012">COACH - ACADEMIC YEAR</a><br/>
+          Employer: <a href="/pensions/2012/calpers/?e=CALIFORNIA%20STATE%20POLYTECHNIC%20UNIVERSITY%20AT%20POMONA">CALIFORNIA STATE POLYTECHNIC UNIVERSITY AT POMONA</a><br/>
+          Pension: <a href="/pensions/2012/calpers/">CalPERS, 2012</a>
+        </td>
+	<td>$1,556.52</td>
+	<td>Not&nbsp;provided</td>
+	
+	  <td>N/A</td>
+	
+	<td>0.8</td>
+	<td>2006</td>
+	<td>$1,556.52</td>
+      </tr>
+    
+      <tr>
+        <td>
+	  <a href="/pensions/2016/calpers/robert-c-ralston/">Robert C Ralston</a>
+	  <br/><a class="pension note" href="/pensions/2016/calpers/robert-c-ralston/">(See note)</a>
+	</td>
+        <td>
+          Title: <a href="/pensions/search/?q=COACH%20-%20ACADEMIC%20YEAR&a=calpers&y=2016">COACH - ACADEMIC YEAR</a><br/>
+          Employer: <a href="/pensions/2016/calpers/?e=CALIFORNIA%20STATE%20UNIVERSITY%2C%20EAST%20BAY">CALIFORNIA STATE UNIVERSITY, EAST BAY</a><br/>
+          Pension: <a href="/pensions/2016/calpers/">CalPERS, 2016</a>
+        </td>
+	<td>$830.08</td>
+	<td>Not&nbsp;provided</td>
+	
+	  <td>N/A</td>
+	
+	<td>5.12</td>
+	<td>2016</td>
+	<td>$830.08</td>
+      </tr>
+    
+      <tr>
+        <td>
+	  <a href="/pensions/2019/calpers/colleen-matsuhara/">Colleen Matsuhara</a>
+	  
+	</td>
+        <td>
+          Title: <a href="/pensions/search/?q=HEAD%20COACH%20-%2012%20MONTH&a=calpers&y=2019">HEAD COACH - 12 MONTH</a><br/>
+          Employer: <a href="/pensions/2019/calpers/?e=CALIFORNIA%20STATE%20UNIVERSITY%20AT%20LONG%20BEACH">CALIFORNIA STATE UNIVERSITY AT LONG BEACH</a><br/>
+          Pension: <a href="/pensions/2019/calpers/">CalPERS, 2019</a>
+        </td>
+	<td>$705.96</td>
+	<td>Not&nbsp;provided</td>
+	
+	  <td>N/A</td>
+	
+	<td>0.53</td>
+	<td>2017</td>
+	<td>$705.96</td>
+      </tr>
+    
+      <tr>
+        <td>
+	  <a href="/pensions/2018/calpers/colleen-matsuhara/">Colleen Matsuhara</a>
+	  
+	</td>
+        <td>
+          Title: <a href="/pensions/search/?q=HEAD%20COACH%20-%2012%20MONTH&a=calpers&y=2018">HEAD COACH - 12 MONTH</a><br/>
+          Employer: <a href="/pensions/2018/calpers/?e=STATE%20OF%20CALIFORNIA">STATE OF CALIFORNIA</a><br/>
+          Pension: <a href="/pensions/2018/calpers/">CalPERS, 2018</a>
+        </td>
+	<td>$692.00</td>
+	<td>Not&nbsp;provided</td>
+	
+	  <td>N/A</td>
+	
+	<td>0.53</td>
+	<td>2017</td>
+	<td>$692.00</td>
+      </tr>
+    
+      <tr>
+        <td>
+	  <a href="/pensions/2017/calpers/dennis-p-aye/">Dennis P Aye</a>
+	  <br/><a class="pension note" href="/pensions/2017/calpers/dennis-p-aye/">(See note)</a>
+	</td>
+        <td>
+          Title: <a href="/pensions/search/?q=HEAD%20COACH%20-%2012%20MONTH&a=calpers&y=2017">HEAD COACH - 12 MONTH</a><br/>
+          Employer: <a href="/pensions/2017/calpers/?e=CALIFORNIA%20STATE%20UNIVERSITY%20AT%20SAN%20BERNARDINO">CALIFORNIA STATE UNIVERSITY AT SAN BERNARDINO</a><br/>
+          Pension: <a href="/pensions/2017/calpers/">CalPERS, 2017</a>
+        </td>
+	<td>$602.43</td>
+	<td>Not&nbsp;provided</td>
+	
+	  <td>N/A</td>
+	
+	<td>3.25</td>
+	<td>2017</td>
+	<td>$602.43</td>
+      </tr>
+    
+      <tr>
+        <td>
+	  <a href="/pensions/2017/calpers/susan-e-walker/">Susan E Walker</a>
+	  <br/><a class="pension note" href="/pensions/2017/calpers/susan-e-walker/">(See note)</a>
+	</td>
+        <td>
+          Title: <a href="/pensions/search/?q=COACH%20-%2012%20MONTH&a=calpers&y=2017">COACH - 12 MONTH</a><br/>
+          Employer: <a href="/pensions/2017/calpers/?e=CALIFORNIA%20STATE%20UNIVERSITY%20AT%20SAN%20JOSE">CALIFORNIA STATE UNIVERSITY AT SAN JOSE</a><br/>
+          Pension: <a href="/pensions/2017/calpers/">CalPERS, 2017</a>
+        </td>
+	<td>$178.37</td>
+	<td>Not&nbsp;provided</td>
+	
+	  <td>N/A</td>
+	
+	<td>0.6</td>
+	<td>2016</td>
+	<td>$178.37</td>
+      </tr>
+    
+  </tbody>
+</table>
+
+
+  <div class="pagination pagination-centered">
+  <ul>
+    
+      <li class="previous"><a href="?q=coach&amp;y=&amp;page=26">&laquo; Previous</a></li>
+    
+    
+  </ul>
+</div>
+
+
+
+			</div>
+			
+			<hr/>
+			<footer class="muted text-center">
+				&copy; 2020 Transparent California<br/>
+				<a href="/pages/about/">About</a> | <a href="/pages/contact/">Contact</a> | <a href="https://blog.transparentcalifornia.com/">Blog</a> | <a href="/pages/disclaimer/">Disclaimer</a> | <a href="/pages/faq/">FAQ</a> | <a href="/donate/">Donate</a>
+				
+			</footer>
+		</div>
+	</div>
+	<div align="center" class="container outside-ad"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- TransCal - Footer -->
+<ins class="adsbygoogle"
+     style="display:block;width:100%;height:90px;"
+     data-full-width-responsive="true"
+     data-ad-client="ca-pub-6217681912471188"
+     data-ad-slot="5735896351"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/2.3.2/js/bootstrap.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+	
+  
+  <script src="https://cdn.jsdelivr.net/qtip2/2.2.0/jquery.qtip.min.js"></script>
+
+<script>
+$(function() {
+  $("#toggle-downloads").click(function (event) {
+    $("#view-downloads").toggle();
+    event.preventDefault();
+  });
+});
+</script>
+
+  <script>
+   $(function() {
+     $("a#pension, a#total-amount").qtip({
+       content: {
+	 text: 'Values are yearly amounts and reflect total amount of payments made during the given year'
+       },
+       position: {
+	 my: 'bottom center',
+	 at: 'top center'
+       }
+     });
+   });
+  </script>
+    <script src="/static/tablesaw/tablesaw.0c499787319a.js"></script>
+    <script src="/static/tablesaw/tablesaw-init.af2d54a09d6a.js"></script>
+
+
+    
+<!-- ========== Donation Popup ========== -->
+<div id="popup-1" class="slickModal welcomeMsg">
+    <div class="slickWindow">
+        <div id="main_container" class="ssw">
+            <div id="lt_container">
+                <img src="/static/img/swlogo2.efc5442e3f4a.jpg" alt="Sunshine Week"/>
+            </div>
+            <div id="rt_container">
+                <form action="/donate" style="margin:25px 0 5px 0;">
+                    <h2>We need your help!</h2><br><br>
+                    <p>As a non-profit, the Transparent California website is only made possible thanks to the generous donations of its supporters.
+                    <br/><br>
+                    If you would like to help make sure Transparent California remains online and current, please consider making a tax-deductible donation today.</p>
+                    <br><br>
+                    <div class="donatebutton"><button type="submit">Donate Now</button></div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Slick Modals jQuery plugin -->
+<script type="text/javascript" src="/static/js/slickModal.min.7d56c7361e3c.js"></script>
+<script type="text/javascript" src="/static/js/popup.099a56dfa753.js"></script>
+<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/5927068.js"></script>
+<!-- End of HubSpot Embed Code -->
+<div id="ab-message" class="mfp-hide white-popup">
+    <p style="font-weight:bold;">Please support Transparent California</p>
+    <p>Our website is made possible by displaying online advertisements to our visitors.</p>
+    <p>Please consider supporting us by disabling your ad blocker or whitelisting our site.</p>
+    <p>Thank you!</p>
+</div>
+<div id="wrapfabtest">
+    <div class="adBanner">
+    </div>
+</div>
+<script src="/static/js/ab-message.df8aae6b037a.js"></script>
+</body>
+</html>
